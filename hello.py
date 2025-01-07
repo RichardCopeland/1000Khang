@@ -1,12 +1,1 @@
-
-
-
-
-
-
 print("hello world");
-
-
-
-
-
